@@ -72,11 +72,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ---
 
-## **📄 Licença**
-Este projeto está sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais informações.
-
----
-
 ## **👨‍💻 Autor**
 - **Seu Nome**  
   [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
