@@ -1,5 +1,4 @@
-
-# **Projeto Flutter Simples**
+# **Projeto Lista simples Flutter**
 
 Um aplicativo Flutter com duas telas que utiliza widgets variados e LocalStorage para salvar dados localmente.
 
