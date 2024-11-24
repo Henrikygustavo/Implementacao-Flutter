@@ -72,25 +72,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ---
 
-## **🤝 Contribuindo**
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
-1. Faça um fork do repositório.
-2. Crie uma nova branch para sua feature:
-   ```bash
-   git checkout -b feature/nova-feature
-   ```
-3. Commit suas mudanças:
-   ```bash
-   git commit -m "Descrição da nova feature"
-   ```
-4. Suba a branch:
-   ```bash
-   git push origin feature/nova-feature
-   ```
-5. Abra um **Pull Request**.
-
----
-
 ## **📄 Licença**
 Este projeto está sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais informações.
 
