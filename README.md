@@ -73,5 +73,5 @@ Siga os passos abaixo para rodar o projeto localmente:
 ---
 
 ## **👨‍💻 Autor**
-- **Seu Nome**  
-  [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+- **Gustavo H. F. Bernardes**  
+  [GitHub](https://github.com/Henrikygustavo)
